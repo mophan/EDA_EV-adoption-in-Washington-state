@@ -58,9 +58,9 @@ This analysis follows a structured exploratory data analysis process:
 - Extend analysis to legislative districts to explore links between clean-energy policies and EV adoption.
 
 ## Project Files
-- EV_Adoption_Washington_EDA.ipynb — Main exploratory data analysis notebook
-- EV_Adoption_Washington_EDA.pdf — Project presentation / summary slides
-- README.md — Project overview
+- [EV_Adoption_Washington_EDA.ipynb](EV_Adoption_Washington_EDA.ipynb) — Main exploratory data analysis notebook
+- [EV_Adoption_Washington_EDA.pdf](EV_Adoption_Washington_EDA.pdf) — Project presentation / summary slides
+- [README.md](README.md) — Project overview
 
 ## Author
 **Annie Phan**
